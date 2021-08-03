@@ -1,5 +1,8 @@
-# Simple Pong in Python 3 for Beginners
-# By @TokyoEdTech
+# Simple Ping Pong Game
+# By @rohit_ranjan
+
+# first install turtle(for installing copy paste the pip command in your terminal)
+# pip install turtle
 
 import turtle
 import os
